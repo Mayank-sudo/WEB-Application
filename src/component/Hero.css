@@ -1,0 +1,21 @@
+@media screen and (min-width: 80rem) {
+    .container {
+      margin: 1em 2em;
+    }
+  }
+
+
+
+.tag {
+    text-align: left;
+    justify-content: center;
+    color: white;
+}
+
+
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
